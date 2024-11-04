@@ -1,7 +1,7 @@
 
 // ESM
 import { Notebook } from "crossnote"
-import { mkdir, realpath, rename } from 'fs/promises';
+import { copyFile, cp, mkdir, realpath, rename, rm, rmdir } from 'fs/promises';
 
 async function main() {
     const notebookPath = await realpath(".")
@@ -14,7 +14,7 @@ async function main() {
     });
 
     // Get the markdown engine for a specific note file in your notebook.
-    const engine = notebook.getNoteMarkdownEngine('README.md');
+    const engine = notebook.getNoteMarkdownEngine('satis-master-plan.md');
 
     // html export
     await engine.htmlExport({ offline: false, runAllCodeChunks: true });
@@ -22,9 +22,13 @@ async function main() {
     // chrome (puppeteer) export
     //await engine.chromeExport({ fileType: 'pdf', runAllCodeChunks: true });
 
-    await mkdir("dist", {recursive: true})
-    await rename("README.html", "dist/index.html")
+    await rm("dist", {recursive: true, force: true})
+    await mkdir("dist")
+    await rename("satis-master-plan.html", "dist/index.html")
+    await cp("static", "dist/static", {recursive: true})
     //await rename("README.pdf", "dist/satis_master_plan.pdf")
+
+    return process.exit();
 
 }
 main()
