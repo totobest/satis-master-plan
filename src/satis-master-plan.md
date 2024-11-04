@@ -24,7 +24,6 @@ Edit this page: https://github.com/totobest/satis-master-plan
 2. [Principles](#principles)
 3. [Overview](#overview)
 4. [Train network](#train-network)
-    1. [Connections between sub factories](#connections-between-sub-factories)
 5. [Sub factories Schemas](#sub-factories-schemas)
     1. [Oil Based Products](#oil-based-products)
     2. [Oscillators](#oscillators)
@@ -81,7 +80,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
 Train network = factory bus
 **Owner:** paquerette
 
-## Connections between sub factories
+**Connections between sub factories:**
 
 
 @import "train_connections.mermaid"
