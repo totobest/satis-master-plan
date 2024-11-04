@@ -29,8 +29,10 @@ Edit this page: https://github.com/totobest/satis-master-plan
     5. [Frames](#frames)
     6. [Project Assembly Parts #8](#project-assembly-parts-8)
     7. [Oscillators](#oscillators)
-    8. [Aluminium Products](#aluminium-products)
-    9. [Oil Based Products](#oil-based-products)
+    8. [Oil Based Products](#oil-based-products)
+    9. [Nitric Acid](#nitric-acid)
+    10. [Nitrogen](#nitrogen)
+    11. [Aluminium Products](#aluminium-products)
 
 <!-- /code_chunk_output -->
 
@@ -138,10 +140,22 @@ https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
 
 ## Oscillators
 
-## Aluminium Products
+
 
 ## Oil Based Products
 
-https://www.satisfactorytools.com/1.0/production?share=k6GGl1Hnxt33TAyIA6ik
+https://www.satisfactorytools.com/1.0/production?share=7sP8RrBNWKGdEzP1m0eN
 
-![alt text](oil.png)
+![alt text](assets/oil_v2.png)
+
+
+
+## Nitric Acid
+
+https://www.satisfactorytools.com/1.0/production?share=UL923Lh89gJFaIhCMdTz
+![alt text](assets/nitric.png)
+
+
+## Nitrogen
+
+## Aluminium Products
