@@ -51,7 +51,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
 # Principles
 
 - Train network as factory bus
-- Group dependants items together (ie: Circuit Board --> Computer --> Super Computer) in a sub factory
+- Group dependants items together (ie: Computer --> Radio Control Unit --> Super Computer) in a sub factory
 - Sub factories should be autonomous as much as possible, meaning does not depend of other sub factories
 - Build sub factories near needed raw ressources as much as possible
 
