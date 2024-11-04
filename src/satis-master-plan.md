@@ -140,6 +140,8 @@ https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
 
 ## Oscillators
 
+TODO
+
 
 
 ## Oil Based Products
