@@ -1,11 +1,12 @@
 
 // ESM
 import { Notebook } from "crossnote"
-import { mkdir, rename } from 'fs/promises';
+import { mkdir, realpath, rename } from 'fs/promises';
 
 async function main() {
+    const notebookPath = await realpath(".")
     const notebook = await Notebook.init({
-      notebookPath: '/home/lefebvret/z/Downloads/11/satis',
+      notebookPath: notebookPath,
       config: {
         printBackground: false,
         enableScriptExecution: true, // <= For running code chunks.
