@@ -49,8 +49,10 @@ Edit this page: https://github.com/totobest/satis-master-plan
 # Principles
 
 - Train network as factory bus
-- Group produced dependents items (ie: Circuit Board --> Computer --> Super Computer) together in a sub factory
-- Build sub factories near needed raw ressources if possible
+- Group dependants items together (ie: Circuit Board --> Computer --> Super Computer) in a sub factory
+- Sub factories should be autonomous as much as possible, meaning does not depend of other sub factories
+- Build sub factories near needed raw ressources as much as possible
+
 
 ---
 
@@ -62,18 +64,6 @@ Edit this page: https://github.com/totobest/satis-master-plan
 @import "statuses.csv"
 
 
-!!! todo
-    - Computing
-      - Export Computers
-      - Produce and export Radio Control Units
-      - Produce and export Super Computers
-    - Motors
-      - Place buildings
-    - Project Assemby Parts
-      - Build train stations (done for Frames)
-      - Produce or import Reinforced Plates
-      - Produce or import Steam Beams
-      - Produce more cable?
 
 
 ---
@@ -103,9 +93,22 @@ Train network = factory bus
 https://www.satisfactorytools.com/1.0/production?share=zyVe2isuAbdWtIlAnNMT
 ![alt text](assets/motors_v2.png)
 
+
+!!! done
+    - Blueprints are ready
+
+
+!!! todo    
+    - Place buildings
+
 ## Computing
 https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
 ![alt text](assets/computing_v3.png)
+
+!!! todo
+    - Export Computers
+    - Produce and export Radio Control Units
+    - Produce and export Super Computers
 
 ## Cooling
 https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
@@ -125,6 +128,12 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 ## Project Assembly Parts #8
 https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
 ![alt text](assets/pap8_v2.png)
+
+!!! todo
+    - Build train stations (done for Frames)
+    - Produce or import Reinforced Plates
+    - Produce or import Steam Beams
+    - Produce more cable?
 
 ## Oscillators
 
