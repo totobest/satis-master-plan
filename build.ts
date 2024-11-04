@@ -1,6 +1,7 @@
 
 // ESM
 import { Notebook } from "crossnote"
+import { mkdir, rename } from 'fs/promises';
 
 async function main() {
     const notebook = await Notebook.init({
@@ -19,6 +20,10 @@ async function main() {
     
     // chrome (puppeteer) export
     await engine.chromeExport({ fileType: 'pdf', runAllCodeChunks: true });
+
+    await mkdir("dist", {recursive: true})
+    await rename("README.html", "dist/index.html")
+    await rename("README.pdf", "dist/satis_master_plan.pdf")
 
 }
 main()
