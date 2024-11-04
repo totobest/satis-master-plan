@@ -1,4 +1,4 @@
-# Satis Master Plan  {ignore=true}
+# Satis Master Plan  {ignore=true .title}
 
 Updated on:
 ```python {cmd=true,output="html",hide}
@@ -9,6 +9,7 @@ print("{:%d/%b/%y %H:%M}".format(datetime.now()))
 Edit this page: https://github.com/totobest/satis-master-plan
 
 ----
+
 
 
 
