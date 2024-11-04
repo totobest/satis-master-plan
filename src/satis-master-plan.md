@@ -91,7 +91,7 @@ Train network = factory bus
     - Number between edges means X/min
     - ~~It seems there is a cyclic dependency between Computing, Motors and Cooling. Meaning Computing needs Cooling which needs Motors which needs Computing.
     It is in fact not really cyclic in details: Motors needs Radios from Computing to build Turbo Motors only and Computing needs Cooling to build Super Computers only.~~
-    The cyclic dependency between the sub factories has been removed.
+    The cyclic dependencies between the sub factories have been removed.
     
 
 
@@ -101,9 +101,8 @@ Train network = factory bus
 
 ## Motors
 
-https://www.satisfactorytools.com/1.0/production?share=zyVe2isuAbdWtIlAnNMT
-![alt text](assets/motors_v2.png)
-
+https://www.satisfactorytools.com/1.0/production?share=oHaKKa7DpHmRSa3AxJlN
+![alt text](assets/motors_v3.png)
 
 !!! done
     - Blueprints are ready
@@ -113,8 +112,9 @@ https://www.satisfactorytools.com/1.0/production?share=zyVe2isuAbdWtIlAnNMT
     - Place buildings
 
 ## Computing
-https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
-![alt text](assets/computing_v3.png)
+
+https://www.satisfactorytools.com/1.0/production?share=857oi1w6o4dITqI64nUW
+![alt text](assets/computing_v4.png)
 
 !!! todo
     - Export Computers
@@ -126,8 +126,8 @@ https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
 
 ### With Copper Sheet
 
-https://www.satisfactorytools.com/1.0/production?share=2xlkxEAZfOfuJl9UasvH
-![alt text](assets/cooling_v4.png)
+https://www.satisfactorytools.com/1.0/production?share=g2GsJulQzprj8BrlGzZT
+![alt text](assets/cooling_v5.png)
 
 ### Alternative with Rubber (not recommended)
 
@@ -141,8 +141,8 @@ https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
 
 
 ## Electronics
-https://www.satisfactorytools.com/1.0/production?share=YCeqoQJ3bbJD52mptq0p
-![alt text](assets/electronics_v2.png)
+https://www.satisfactorytools.com/1.0/production?share=pmOLmGKJ0tvJ51dw0N3Z
+![alt text](assets/electronics_v3.png)
 
 ## Frames
 https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
@@ -161,8 +161,13 @@ https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
 
 ## Oscillators
 
-TODO
+https://www.satisfactorytools.com/1.0/production?share=ypeO0xj28PxZJARBnVtK
+![alt text](assets/oscillators_v1.png)
 
+!!! info
+    - Updated for more throughput
+        - It needs more Raw Quartz!
+            - Is it possible?
 
 
 ## Oil Based Products

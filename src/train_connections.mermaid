@@ -11,34 +11,34 @@ flowchart TD
 
     Nitrogen
 
-
-    Electronics -- 19xRod --> Motors
-    Computing -- 9xRadio --> Motors
-    Motors
-
     AluminiumProducts -- 300xAlu. Casing --> Frames
     Computing -- 2xRadio --> Frames
     Nitrogen -- 100xNitrogen --> Frames
     Frames
 
     OilBasedProducts -- 204xPlastic --> Electronics
-    Motors -- 36xStator --> Electronics
+    Motors -- 8xStator --> Electronics
     Electronics
 
-    AluminiumProducts -- 105xAlu. Sheet --> Cooling
-    OilBasedProducts -- 20xRubber --> Cooling
-    Nitrogen -- 120xNitrogen --> Cooling
+    OilBasedProducts -- 72xRubber --> Motors
+    Cooling -- 12xCooling --> Motors
+    Computing -- 6xRadio --> Motors
+    Motors
+
+    AluminiumProducts -- 225xAlu. Sheet --> Cooling
+    OilBasedProducts -- 44xRubber --> Cooling
+    Nitrogen -- 550xNitrogen --> Cooling
     Cooling
 
     OilBasedProducts -- 150xPlastic --> Computing
-    Oscillators -- 20xOscillator --> Computing
+    Oscillators -- 28xOscillator --> Computing
     AluminiumProducts -- 192xAlu. Casing --> Computing
     Cooling -- 10xCooling--> Computing
     Computing
 
     OilBasedProducts -- 185xRubber --> ProjectAssembly
     Motors -- 50xStator / 15xRotor/ 15xMotor/ 3xTurbo --> ProjectAssembly
-    Frames -- 6.25xModular / 10xHeavy / 3xFused / 1xPressure --> ProjectAssembly
+    Frames -- 7xModular / 10xHeavy / 3xFused / 1xPressure --> ProjectAssembly
     Electronics -- 50xCircuit / 5xRod --> ProjectAssembly
     Cooling -- 9xCooling--> ProjectAssembly
     Computing -- 20xComputer / 5xSuper --> ProjectAssembly
