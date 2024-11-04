@@ -82,7 +82,7 @@ Train network = factory bus
 ## Connections between sub factories
 
 
-@import "static/train_connections.mermaid"
+@import "train_connections.mermaid"
 
 
 !!! note
