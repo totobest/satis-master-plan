@@ -35,7 +35,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
     8. [Oil Based Products](#oil-based-products)
     9. [Nitric Acid](#nitric-acid)
     10. [Nitrogen](#nitrogen)
-    11. [Aluminium Products](#aluminium-products)
+    11. [Aluminum Products](#aluminum-products)
 
 <!-- /code_chunk_output -->
 
@@ -44,7 +44,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
 # Objectives
 
 - Produce and bring Phase #8 Project Assembly parts to the Space Elevator    
-    - 5/min Magnetic Field Genetator    
+    - 5/min Magnetic Field Generator    
     - 5/min Assembly Director System
     - 3/min Thermal Propulsion Rocket
     - 1/min Nuclear Pasta
@@ -86,7 +86,7 @@ Train network = factory bus
 
 !!! note
     - Number between edges means X/min
-    - It seems there is a cyclic dependancy between Computing, Motors and Cooling. Meaning Computing needs Cooling which needs Motors which needs Computing.
+    - It seems there is a cyclic dependency between Computing, Motors and Cooling. Meaning Computing needs Cooling which needs Motors which needs Computing.
     It is in fact not really cyclic in details: Motors needs Radios from Computing to build Turbo Motors only and Computing needs Cooling to build Super Computers only.
     
 
@@ -177,4 +177,4 @@ https://www.satisfactorytools.com/1.0/production?share=UL923Lh89gJFaIhCMdTz
 
 ## Nitrogen
 
-## Aluminium Products
+## Aluminum Products
