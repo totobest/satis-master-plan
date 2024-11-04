@@ -62,18 +62,6 @@ Edit this page: https://github.com/totobest/satis-master-plan
 @import "statuses.csv"
 
 
-!!! todo
-    - Computing
-      - Export Computers
-      - Produce and export Radio Control Units
-      - Produce and export Super Computers
-    - Motors
-      - Place buildings
-    - Project Assemby Parts
-      - Build train stations (done for Frames)
-      - Produce or import Reinforced Plates
-      - Produce or import Steam Beams
-      - Produce more cable?
 
 
 ---
@@ -103,9 +91,19 @@ Train network = factory bus
 https://www.satisfactorytools.com/1.0/production?share=zyVe2isuAbdWtIlAnNMT
 ![alt text](assets/motors_v2.png)
 
+!!! todo
+    - Motors
+      - Place buildings
+
 ## Computing
 https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
 ![alt text](assets/computing_v3.png)
+
+!!! todo
+    - Computing
+      - Export Computers
+      - Produce and export Radio Control Units
+      - Produce and export Super Computers
 
 ## Cooling
 https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
@@ -125,6 +123,13 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 ## Project Assembly Parts #8
 https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
 ![alt text](assets/pap8_v2.png)
+
+!!! todo
+    - Project Assemby Parts
+      - Build train stations (done for Frames)
+      - Produce or import Reinforced Plates
+      - Produce or import Steam Beams
+      - Produce more cable?
 
 ## Oscillators
 
