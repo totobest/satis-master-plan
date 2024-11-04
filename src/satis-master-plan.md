@@ -1,4 +1,7 @@
+@import "assets/style.css"
+
 # Satis Master Plan  {ignore=true .title}
+
 
 Updated on:
 ```python {cmd=true,output="html",hide}
