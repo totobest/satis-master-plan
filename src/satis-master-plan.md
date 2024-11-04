@@ -89,8 +89,9 @@ Train network = factory bus
 
 !!! note
     - Number between edges means X/min
-    - It seems there is a cyclic dependency between Computing, Motors and Cooling. Meaning Computing needs Cooling which needs Motors which needs Computing.
-    It is in fact not really cyclic in details: Motors needs Radios from Computing to build Turbo Motors only and Computing needs Cooling to build Super Computers only.
+    - ~~It seems there is a cyclic dependency between Computing, Motors and Cooling. Meaning Computing needs Cooling which needs Motors which needs Computing.
+    It is in fact not really cyclic in details: Motors needs Radios from Computing to build Turbo Motors only and Computing needs Cooling to build Super Computers only.~~
+    The cyclic dependency between the sub factories has been removed.
     
 
 
@@ -125,8 +126,8 @@ https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
 
 ### With Copper Sheet
 
-https://www.satisfactorytools.com/1.0/production?share=maXEBA2GVfhUi7Qg8lsC
-![alt text](assets/cooling_v3.png)
+https://www.satisfactorytools.com/1.0/production?share=2xlkxEAZfOfuJl9UasvH
+![alt text](assets/cooling_v4.png)
 
 ### Alternative with Rubber (not recommended)
 
