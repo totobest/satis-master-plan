@@ -53,11 +53,11 @@ Edit this page: https://github.com/totobest/satis-master-plan
 
 # Principles
 
-- Train network as factory bus
-- Group dependents items together (ie: Computer --> Radio Control Unit --> Super Computer) in a sub factory
-- Sub factories should be autonomous as much as possible, meaning does not depend of other sub factories
-- Build sub factories near needed raw resources.
-- Prefer to transport complex products instead of raw products
+1) Train network as factory bus
+1) Group dependents items together (ie: Computer --> Radio Control Unit --> Super Computer) in a sub factory
+1) Sub factories should be autonomous as much as possible, meaning does not depend of other sub factories
+1) Build sub factories near needed raw resources.
+1) Prefer to transport complex products instead of raw products
     - Especially when transformed products are fewer than required products;
     Example: it would be more efficient to transport Iron Plates instead of Iron Ingots because 3 Iron Ingots are transformed into 2 Iron Plates using regular recipe so it takes less place in a train's wagon.
 
@@ -127,9 +127,13 @@ https://www.satisfactorytools.com/1.0/production?share=maXEBA2GVfhUi7Qg8lsC
 
 ### Alternative with Rubber (not recommended)
 
+!!! warning
+    This alternative does not follow #5 principle.
+    It should not import Rubber as Copper Sheet can be easily produced.
+
+
 https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
 ![alt text](assets/cooling_v2.png)
-
 
 
 ## Electronics
