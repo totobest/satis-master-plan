@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "dependencies": {
     "crossnote": "^0.9.10"
   },
@@ -10,6 +9,6 @@
     "typescript": "^5.6.3"
   },
   "scripts": {
-    "build": "tsx ./build.ts"
+    "build": "tsc --skipLibCheck --noEmit ./build.ts && tsx ./build.ts"
   }
 }

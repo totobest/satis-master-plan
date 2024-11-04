@@ -30,4 +30,4 @@ async function main() {
   await rename(generatedHtmlFilename, "dist/index.html")
   await cp("src/assets", "dist/assets", { recursive: true })
 }
-await main()
+main()
