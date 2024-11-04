@@ -60,9 +60,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
 
 # Overview
 
-![alt text](assets/map2.png)
-
-
+![alt text](assets/map_v3.png)
 @import "statuses.csv"
 
 
