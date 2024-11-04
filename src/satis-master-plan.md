@@ -133,7 +133,7 @@ https://www.satisfactorytools.com/1.0/production?share=g2GsJulQzprj8BrlGzZT
 
 !!! warning
     This alternative does not follow #5 principle.
-    It should not import Rubber as Copper Sheet can be easily produced.
+    It imports Rubber although the regular recipe needs Copper Sheet which can be easily produced.
 
 
 https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
