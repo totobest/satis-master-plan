@@ -25,6 +25,8 @@ Edit this page: https://github.com/totobest/satis-master-plan
     1. [Motors](#motors)
     2. [Computing](#computing)
     3. [Cooling](#cooling)
+        1. [With Copper Sheet](#with-copper-sheet)
+        2. [Alternative with Rubber (not recommended)](#alternative-with-rubber-not-recommended)
     4. [Electronics](#electronics)
     5. [Frames](#frames)
     6. [Project Assembly Parts #8](#project-assembly-parts-8)
@@ -115,6 +117,15 @@ https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
     - Produce and export Super Computers
 
 ## Cooling
+
+
+### With Copper Sheet
+
+https://www.satisfactorytools.com/1.0/production?share=maXEBA2GVfhUi7Qg8lsC
+![alt text](cooling_v3.png)
+
+### Alternative with Rubber (not recommended)
+
 https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
 ![alt text](assets/cooling_v2.png)
 
