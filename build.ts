@@ -20,7 +20,7 @@ async function main() {
   const engine = notebook.getNoteMarkdownEngine(SOURCE_FILENAME);
 
   // html export
-  await engine.htmlExport({ offline: false, runAllCodeChunks: true });
+  await engine.htmlExport({ offline: true, runAllCodeChunks: true });
 
   const generatedHtmlFilename = format({ dir: "src", name: basename(SOURCE_FILENAME, ".md"), ext: "html" })
 
