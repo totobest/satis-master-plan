@@ -51,9 +51,12 @@ Edit this page: https://github.com/totobest/satis-master-plan
 # Principles
 
 - Train network as factory bus
-- Group dependants items together (ie: Computer --> Radio Control Unit --> Super Computer) in a sub factory
+- Group dependents items together (ie: Computer --> Radio Control Unit --> Super Computer) in a sub factory
 - Sub factories should be autonomous as much as possible, meaning does not depend of other sub factories
-- Build sub factories near needed raw ressources as much as possible
+- Build sub factories near needed raw resources.
+- Prefer to transport complex products instead of raw products
+    - Especially when transformed products are fewer than required products;
+    Example: it would be more efficient to transport Iron Plates instead of Iron Ingots because 3 Iron Ingots are transformed into 2 Iron Plates using regular recipe so it takes less place in a train's wagon.
 
 
 ---
