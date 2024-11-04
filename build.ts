@@ -20,11 +20,11 @@ async function main() {
     await engine.htmlExport({ offline: false, runAllCodeChunks: true });
     
     // chrome (puppeteer) export
-    await engine.chromeExport({ fileType: 'pdf', runAllCodeChunks: true });
+    //await engine.chromeExport({ fileType: 'pdf', runAllCodeChunks: true });
 
     await mkdir("dist", {recursive: true})
     await rename("README.html", "dist/index.html")
-    await rename("README.pdf", "dist/satis_master_plan.pdf")
+    //await rename("README.pdf", "dist/satis_master_plan.pdf")
 
 }
 main()
