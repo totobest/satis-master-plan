@@ -123,7 +123,7 @@ https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
 ### With Copper Sheet
 
 https://www.satisfactorytools.com/1.0/production?share=maXEBA2GVfhUi7Qg8lsC
-![alt text](cooling_v3.png)
+![alt text](assets/cooling_v3.png)
 
 ### Alternative with Rubber (not recommended)
 
