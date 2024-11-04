@@ -26,16 +26,16 @@ Edit this page: https://github.com/totobest/satis-master-plan
 4. [Train network](#train-network)
     1. [Connections between sub factories](#connections-between-sub-factories)
 5. [Sub factories Schemas](#sub-factories-schemas)
-    1. [Motors](#motors)
-    2. [Computing](#computing)
-    3. [Cooling](#cooling)
+    1. [Oil Based Products](#oil-based-products)
+    2. [Oscillators](#oscillators)
+    3. [Motors](#motors)
+    4. [Computing](#computing)
+    5. [Cooling](#cooling)
         1. [With Copper Sheet](#with-copper-sheet)
         2. [Alternative with Rubber (not recommended)](#alternative-with-rubber-not-recommended)
-    4. [Electronics](#electronics)
-    5. [Frames](#frames)
-    6. [Project Assembly Parts #8](#project-assembly-parts-8)
-    7. [Oscillators](#oscillators)
-    8. [Oil Based Products](#oil-based-products)
+    6. [Electronics](#electronics)
+    7. [Frames](#frames)
+    8. [Project Assembly Parts #8](#project-assembly-parts-8)
     9. [Nitric Acid](#nitric-acid)
     10. [Nitrogen](#nitrogen)
     11. [Aluminum Products](#aluminum-products)
@@ -99,6 +99,25 @@ Train network = factory bus
 
 # Sub factories Schemas
 
+## Oil Based Products
+
+https://www.satisfactorytools.com/1.0/production?share=7sP8RrBNWKGdEzP1m0eN
+
+![alt text](assets/oil_v2.png)
+
+
+## Oscillators
+
+https://www.satisfactorytools.com/1.0/production?share=ypeO0xj28PxZJARBnVtK
+![alt text](assets/oscillators_v1.png)
+
+!!! info
+    - Updated for more throughput
+        - It needs more Raw Quartz!
+            - Is it possible?
+
+
+
 ## Motors
 
 https://www.satisfactorytools.com/1.0/production?share=oHaKKa7DpHmRSa3AxJlN
@@ -159,30 +178,11 @@ https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
     - Produce or import Steam Beams
     - Produce more cable?
 
-## Oscillators
-
-https://www.satisfactorytools.com/1.0/production?share=ypeO0xj28PxZJARBnVtK
-![alt text](assets/oscillators_v1.png)
-
-!!! info
-    - Updated for more throughput
-        - It needs more Raw Quartz!
-            - Is it possible?
-
-
-## Oil Based Products
-
-https://www.satisfactorytools.com/1.0/production?share=7sP8RrBNWKGdEzP1m0eN
-
-![alt text](assets/oil_v2.png)
-
-
 
 ## Nitric Acid
 
 https://www.satisfactorytools.com/1.0/production?share=UL923Lh89gJFaIhCMdTz
 ![alt text](assets/nitric.png)
-
 
 ## Nitrogen
 
