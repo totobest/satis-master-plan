@@ -142,3 +142,6 @@ https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
 
 ## Oil Based Products
 
+https://www.satisfactorytools.com/1.0/production?share=k6GGl1Hnxt33TAyIA6ik
+
+![alt text](oil.png)
