@@ -45,23 +45,25 @@ Edit this page: https://github.com/totobest/satis-master-plan
 
 # Objectives
 
-- Produce and bring Phase #8 Project Assembly parts to the Space Elevator    
-    - 5/min Magnetic Field Generator    
-    - 5/min Assembly Director System
-    - 3/min Thermal Propulsion Rocket
-    - 1/min Nuclear Pasta
-    At these rates, parts will be produced in 100 minutes in theory.
-- Prepare infrastructure for next phase
+- Produce and transport the following Project Assembly parts to the Space Elevator:
+    - **Magnetic Field Generator**: 5 units per minute
+    - **Assembly Director System**: 5 units per minute
+    - **Thermal Propulsion Rocket**: 3 units per minute
+    - **Nuclear Pasta**: 1 unit per minute
+    With these production rates, the required parts should be ready in approximately 100 minutes.
+- Additionally, prepare the necessary infrastructure to support the upcoming phase.
 
 # Principles
 
-1) Train network as factory bus
-1) Group dependents items together (ie: Computer --> Radio Control Unit --> Super Computer) in a sub factory
-1) Sub factories should be autonomous as much as possible, meaning does not depend of other sub factories
-1) Build sub factories near needed raw resources.
-1) Prefer to transport complex products instead of raw products
-    - Especially when transformed products are fewer than required products;
-    Example: it would be more efficient to transport Iron Plates instead of Iron Ingots because 3 Iron Ingots are transformed into 2 Iron Plates using regular recipe so it takes less place in a train's wagon.
+1. Use the train network as a "factory bus" to efficiently transport items between sub-factories.
+1. Group dependent items together in sub-factories. For example, place items like Computers, Radio Control Units, and Super Computers within the same sub-factory.
+1. Design sub-factories to be as autonomous as possible, minimizing dependencies on other sub-factories.
+1. To improve transportation efficiency, prioritize transporting processed products over raw materials.
+    - This is especially beneficial when the transformed products take up less space than the raw materials required to create them.
+    - For example, transporting Iron Plates instead of Iron Ingots is more efficient because, using the standard recipe, 3 Iron Ingots are converted into 2 Iron Plates, which occupy less space in a train wagon.
+1. Position sub-factories close to the required raw resources for easier transportation using belts.
+1. Allow the option to duplicate entire sub-factories to easily scale up production as needed.
+
 
 
 ---
@@ -150,7 +152,7 @@ https://www.satisfactorytools.com/1.0/production?share=g2GsJulQzprj8BrlGzZT
 ### Alternative with Rubber (not recommended)
 
 !!! warning
-    This alternative does not follow #5 principle.
+    This alternative does not follow the #3 principle.
     It imports Rubber although the regular recipe needs Copper Sheet which can be easily produced.
 
 
