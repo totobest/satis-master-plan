@@ -79,9 +79,10 @@ Train network = factory bus
 
 
 !!! note
-    - Some sub factories have inter-dependencies
-      - example: Motors needs Rod from Electronics and Electronics needs Stator from Motors
-    - Number = X/min
+    - Number between edges means X/min
+    - It seems there is a cyclic dependancy between Computing, Motors and Cooling. Meaning Computing needs Cooling which needs Motors which needs Computing.
+    It is in fact not really cyclic in details: Motors needs Radios from Computing to build Turbo Motors only and Computing needs Cooling to build Super Computers only.
+    
 
 
 ---
