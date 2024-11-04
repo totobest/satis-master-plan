@@ -1,0 +1,41 @@
+---
+config:
+  layout: elk
+---
+
+flowchart TD
+
+    AluminiumProducts
+
+    Oscillators
+
+    Electronics -- 19xRod --> Motors
+    Computing -- 9xRadio --> Motors
+    Motors
+
+    AluminiumProducts -- 300xAlu. Casing --> Frames
+    Computing -- 2xRadio --> Frames
+    Frames
+
+    OilBasedProducts -- 204xPlastic --> Electronics
+    Motors -- 36xStator --> Electronics
+    Electronics
+
+    OilBasedProducts -- 60xRubber --> Cooling
+    AluminiumProducts -- 60xAlu. Casing --> Cooling
+    Motors -- 5xMotor --> Cooling
+    Cooling
+
+    OilBasedProducts -- 150xPlastic --> Computing
+    Oscillators -- 20xOscillator --> Computing
+    AluminiumProducts -- 192xAlu. Casing --> Computing
+    Cooling -- 10xCooling--> Computing
+    Computing
+
+    OilBasedProducts -- 185xRubber --> ProjectAssembly
+    Motors -- 50xStator / 15xRotor/ 15xMotor/ 3xTurbo --> ProjectAssembly
+    Frames -- 6.25xModular / 10xHeavy / 3xFused / 1xPressure --> ProjectAssembly
+    Electronics -- 50xCircuit / 5xRod --> ProjectAssembly
+    Cooling -- 9xCooling--> ProjectAssembly
+    Computing -- 20xComputer / 5xSuper --> ProjectAssembly
+    ProjectAssembly["Project Assembly #8 Parts + Space Elevator"]
