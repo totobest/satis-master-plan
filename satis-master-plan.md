@@ -53,7 +53,7 @@ print("{:%d/%b/%y %H:%M}".format(datetime.now()))
 
 # Overview
 
-![alt text](map2.png)
+![alt text](static/map2.png)
 
 
 @import "statuses.csv"
@@ -82,7 +82,7 @@ Train network = factory bus
 ## Connections between sub factories
 
 
-@import "train_connections.mermaid"
+@import "static/train_connections.mermaid"
 
 
 !!! note
@@ -98,30 +98,30 @@ Train network = factory bus
 ## Motors
 
 https://www.satisfactorytools.com/1.0/production?share=zyVe2isuAbdWtIlAnNMT
-![alt text](motors_v2.png)
+![alt text](static/motors_v2.png)
 
 ## Computing
 https://www.satisfactorytools.com/1.0/production?share=QDJzQNfvTaLDBrhAb2bA
-![alt text](computing_v3.png)
+![alt text](static/computing_v3.png)
 
 ## Cooling
 https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
-![alt text](cooling_v2.png)
+![alt text](static/cooling_v2.png)
 
 
 
 ## Electronics
 https://www.satisfactorytools.com/1.0/production?share=YCeqoQJ3bbJD52mptq0p
-![alt text](electronics_v2.png)
+![alt text](static/electronics_v2.png)
 
 ## Frames
 https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
-![alt text](frames2.png)
+![alt text](static/frames2.png)
 
 
 ## Project Assembly Parts #8
 https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
-![alt text](pap8_v2.png)
+![alt text](static/pap8_v2.png)
 
 ## Oscillators
 
