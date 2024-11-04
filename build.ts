@@ -22,12 +22,12 @@ async function main() {
   // html export
   await engine.htmlExport({ offline: false, runAllCodeChunks: true });
 
-  const generatedHtmlFilename = format({ dir: "src", base: basename(SOURCE_FILENAME), ext: "html" })
+  const generatedHtmlFilename = format({ dir: "src", name: basename(SOURCE_FILENAME, ".md"), ext: "html" })
 
 
   await rm("dist", { recursive: true, force: true })
   await mkdir("dist")
   await rename(generatedHtmlFilename, "dist/index.html")
-  await cp("assets", "dist/assets", { recursive: true })
+  await cp("src/assets", "dist/assets", { recursive: true })
 }
 await main()
