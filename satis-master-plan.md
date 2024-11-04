@@ -5,6 +5,9 @@ Updated on:
 from datetime import datetime
 print("{:%d/%b/%y %H:%M}".format(datetime.now()))
 ```
+
+Edit this page: https://github.com/totobest/satis-master-plan
+
 ----
 
 
