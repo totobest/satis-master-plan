@@ -56,7 +56,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
 # Principles
 
 1. Use the train network as a "factory bus" to efficiently transport items between sub-factories.
-1. Group dependent items together in sub-factories. For example, place items like Computers, Radio Control Units, and Super Computers within the same sub-factory.
+1. Group dependent items together in sub-factories. For example, produce items like Computers, Radio Control Units, and Super Computers within the same sub-factory.
 1. Design sub-factories to be as autonomous as possible, minimizing dependencies on other sub-factories.
 1. To improve transportation efficiency, prioritize transporting processed products over raw materials.
     - This is especially beneficial when the transformed products take up less space than the raw materials required to create them.
