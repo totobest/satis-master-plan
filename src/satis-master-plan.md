@@ -2,6 +2,7 @@
 
 # Satis Master Plan  {ignore=true .title}
 
+Edit this page: https://github.com/totobest/satis-master-plan
 
 Updated on:
 ```python {cmd=true,output="html",hide}
@@ -16,8 +17,8 @@ Changelog:
 git log -10 --pretty=format:"%h - %an, %ar : %s"
 ```
 
----
-Edit this page: https://github.com/totobest/satis-master-plan
+
+
 ---
 
 
