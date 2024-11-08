@@ -9,10 +9,16 @@ from datetime import datetime
 print("{:%d/%b/%y %H:%M}".format(datetime.now()))
 ```
 
-Edit this page: https://github.com/totobest/satis-master-plan
-
 ----
+Changelog:
 
+```bash {cmd=true,hide}
+git log -10 --pretty=format:"%h - %an, %ar : %s"
+```
+
+---
+Edit this page: https://github.com/totobest/satis-master-plan
+---
 
 
 
