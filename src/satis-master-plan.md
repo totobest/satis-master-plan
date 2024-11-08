@@ -38,6 +38,7 @@ Edit this page: https://github.com/totobest/satis-master-plan
     9. [Nitric Acid](#nitric-acid)
     10. [Nitrogen](#nitrogen)
     11. [Aluminum Products](#aluminum-products)
+6. [Power](#power)
 
 <!-- /code_chunk_output -->
 
@@ -194,3 +195,9 @@ https://www.satisfactorytools.com/1.0/production?share=UL923Lh89gJFaIhCMdTz
 ## Nitrogen
 
 ## Aluminum Products
+
+
+# Power
+
+!!! todo
+    Should we go nuclear?
