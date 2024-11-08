@@ -14,7 +14,7 @@ print("{:%d/%b/%y %H:%M}".format(datetime.now()))
 Changelog:
 
 ```bash {cmd=true,hide}
-git log -10 --pretty=format:"%h - %an, %ar : %s"
+git log -10 --pretty=format:"%h - %an, %aI : %s" --date=format:"%Y-%b-%d %H:%M:%S"
 ```
 
 
