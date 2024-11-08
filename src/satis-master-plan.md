@@ -34,7 +34,7 @@ git log -10 --pretty=format:"%h - %an, %aI : %s" --date=format:"%Y-%b-%d %H:%M:%
 5. [Sub factories Schemas](#sub-factories-schemas)
     1. [Oil Based Products](#oil-based-products)
     2. [Oscillators](#oscillators)
-    3. [Motors](#motors)
+    3. [*tors](#tors)
     4. [Computing](#computing)
     5. [Cooling](#cooling)
         1. [With Copper Sheet](#with-copper-sheet)
@@ -133,17 +133,13 @@ https://www.satisfactorytools.com/1.0/production?share=ypeO0xj28PxZJARBnVtK
 
 
 
-## Motors
+## *tors
 
 https://www.satisfactorytools.com/1.0/production?share=oHaKKa7DpHmRSa3AxJlN
 ![alt text](assets/motors_v3.png)
 
-!!! done
-    - Blueprints are ready
-
-
 !!! todo    
-    - Place buildings
+    - Connect imports
 
 ## Computing
 
