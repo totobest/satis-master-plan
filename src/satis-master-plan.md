@@ -144,7 +144,7 @@ https://www.satisfactorytools.com/1.0/production?share=oHaKKa7DpHmRSa3AxJlN
 ## Computing
 
 https://www.satisfactorytools.com/1.0/production?share=857oi1w6o4dITqI64nUW
-![alt text](assets/computing_v4.png)
+![alt text](assets/computing_v5.png)
 
 !!! todo
     - Export Computers
