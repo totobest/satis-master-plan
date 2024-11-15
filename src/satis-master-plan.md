@@ -156,8 +156,8 @@ https://www.satisfactorytools.com/1.0/production?share=g2GsJulQzprj8BrlGzZT
 
 
 ## Electronics
-https://www.satisfactorytools.com/1.0/production?share=pmOLmGKJ0tvJ51dw0N3Z
-![alt text](assets/electronics_v3.png)
+https://www.satisfactorytools.com/1.0/production?share=0pPzjhkT1ahyfaIOTfhz
+![alt text](assets/electronics_v4.png)
 
 ## Frames
 https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
@@ -165,10 +165,9 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 
 
 ## Project Assembly Parts #8
-https://www.satisfactorytools.com/1.0/production?share=vSaMOBVUGm6zNuovEJJi
+https://www.satisfactorytools.com/1.0/production?share=sucxgJ5aHsSjC5ZuMRCN
+![alt text](assets/pap8_v5.png)
 
-
-![alt text](assets/pap8_v4.png)
 !!! todo
     - Build train stations (done for Frames)
     - Produce or import Reinforced Plates

@@ -12,17 +12,17 @@ flowchart TD
     Nitrogen
 
     AluminiumProducts -- 300xAlu. Casing --> Frames
-    Computing -- 2xRadio --> Frames
+    Computing -- 2xRCU --> Frames
     Nitrogen -- 100xNitrogen --> Frames
     Frames
 
-    OilBasedProducts -- 204xPlastic --> Electronics
+    OilBasedProducts -- 250xPlastic --> Electronics
     Motors -- 8xStator --> Electronics
     Electronics
 
     OilBasedProducts -- 72xRubber --> Motors
     Cooling -- 12xCooling --> Motors
-    Computing -- 6xRadio --> Motors
+    Computing -- 6xRCU --> Motors
     Motors["*tors"]
 
     AluminiumProducts -- 225xAlu. Sheet --> Cooling
@@ -39,7 +39,7 @@ flowchart TD
     OilBasedProducts -- 185xRubber --> ProjectAssembly
     Motors -- 50xStator / 15xRotor/ 15xMotor/ 3xTurbo --> ProjectAssembly
     Frames -- 7xModular / 10xHeavy / 3xFused / 1xPressure --> ProjectAssembly
-    Electronics -- 50xCircuit / 5xRod --> ProjectAssembly
+    Electronics -- 50xCircuit / 13xHSC / 5xRod --> ProjectAssembly
     Cooling -- 9xCooling--> ProjectAssembly
     Computing -- 20xComputer / 5xSuper --> ProjectAssembly
     ProjectAssembly["Project Assembly Parts"]
