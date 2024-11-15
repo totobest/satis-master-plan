@@ -37,8 +37,6 @@ git log -10 --pretty=format:"%h - %an, %aI : %s" --date=format:"%Y-%b-%d %H:%M:%
     3. [*tors](#tors)
     4. [Computing](#computing)
     5. [Cooling](#cooling)
-        1. [With Copper Sheet](#with-copper-sheet)
-        2. [Alternative with Rubber (not recommended)](#alternative-with-rubber-not-recommended)
     6. [Electronics](#electronics)
     7. [Frames](#frames)
     8. [Project Assembly Parts #8](#project-assembly-parts-8)
@@ -153,21 +151,8 @@ https://www.satisfactorytools.com/1.0/production?share=857oi1w6o4dITqI64nUW
 
 ## Cooling
 
-
-### With Copper Sheet
-
 https://www.satisfactorytools.com/1.0/production?share=g2GsJulQzprj8BrlGzZT
 ![alt text](assets/cooling_v5.png)
-
-### Alternative with Rubber (not recommended)
-
-!!! warning
-    This alternative does not follow the #3 principle.
-    It imports Rubber although the regular recipe needs Copper Sheet which can be easily produced.
-
-
-https://www.satisfactorytools.com/1.0/production?share=TfUouPOiGpesiNo1p744
-![alt text](assets/cooling_v2.png)
 
 
 ## Electronics
@@ -181,7 +166,8 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 
 ## Project Assembly Parts #8
 https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
-![alt text](assets_pap8_v3.png)
+
+![alt text](assets/pap8_v4.png)
 !!! todo
     - Build train stations (done for Frames)
     - Produce or import Reinforced Plates
