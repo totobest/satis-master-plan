@@ -165,7 +165,8 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 
 
 ## Project Assembly Parts #8
-https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
+https://www.satisfactorytools.com/1.0/production?share=vSaMOBVUGm6zNuovEJJi
+
 
 ![alt text](assets/pap8_v4.png)
 !!! todo
