@@ -31,7 +31,7 @@ git log -10 --pretty=format:"%h - %an, %aI : %s" --date=format:"%Y-%b-%d %H:%M:%
 2. [Principles](#principles)
 3. [Overview](#overview)
 4. [Train network](#train-network)
-5. [Sub factories Schemas](#sub-factories-schemas)
+5. [Sub factories Diagrams](#sub-factories-diagrams)
     1. [Oil Based Products](#oil-based-products)
     2. [Oscillators](#oscillators)
     3. [*tors](#tors)
@@ -112,7 +112,7 @@ Train network = factory bus
 
 ---
 
-# Sub factories Schemas
+# Sub factories Diagrams
 
 ## Oil Based Products
 
@@ -181,8 +181,7 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 
 ## Project Assembly Parts #8
 https://www.satisfactorytools.com/1.0/production?share=tC29QeafYMDLbDfDHtgN
-![alt text](assets/pap8_v2.png)
-
+![alt text](assets_pap8_v3.png)
 !!! todo
     - Build train stations (done for Frames)
     - Produce or import Reinforced Plates
