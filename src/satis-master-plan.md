@@ -118,6 +118,9 @@ https://www.satisfactorytools.com/1.0/production?share=7sP8RrBNWKGdEzP1m0eN
 
 ![alt text](assets/oil_v2.png)
 
+!!! todo
+    Upgrade factory to alt recipes (recycled plastic/rubber) for more throughput
+
 
 ## Oscillators
 
@@ -171,8 +174,13 @@ https://www.satisfactorytools.com/1.0/production?share=UL923Lh89gJFaIhCMdTz
 
 ## Nitrogen
 
+!!! todo
+
+
+
 ## Aluminum Products
 
+!!! todo
 
 # Power
 
