@@ -5,13 +5,13 @@ config:
 
 flowchart TD
 
-    AluminiumProducts
+    AluminumProducts
 
     Oscillators
 
     Nitrogen
 
-    AluminiumProducts -- 300xAlu. Casing --> Frames
+    AluminumProducts -- 300xAlu. Casing --> Frames
     Computing -- 2xRCU --> Frames
     Nitrogen -- 100xNitrogen --> Frames
     Frames
@@ -25,14 +25,14 @@ flowchart TD
     Computing -- 6xRCU --> Motors
     Motors["*tors"]
 
-    AluminiumProducts -- 225xAlu. Sheet --> Cooling
+    AluminumProducts -- 225xAlu. Sheet --> Cooling
     OilBasedProducts -- 44xRubber --> Cooling
     Nitrogen -- 550xNitrogen --> Cooling
     Cooling
 
     OilBasedProducts -- 150xPlastic --> Computing
     Oscillators -- 28xOscillator --> Computing
-    AluminiumProducts -- 192xAlu. Casing --> Computing
+    AluminumProducts -- 192xAlu. Casing --> Computing
     Cooling -- 10xCooling--> Computing
     Computing
 
