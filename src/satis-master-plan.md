@@ -165,9 +165,8 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 
 
 ## Project Assembly Parts #8
-https://www.satisfactorytools.com/1.0/production?share=sucxgJ5aHsSjC5ZuMRCN
-![alt text](assets/pap8_v5.png)
-
+https://www.satisfactorytools.com/1.0/production?share=nF5JCIgupxZYNNW6kHps
+![alt text](assets/pap8_v6.png)
 !!! todo
     - Build train stations (done for Frames)
     - Produce or import Reinforced Plates
