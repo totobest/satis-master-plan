@@ -136,17 +136,12 @@ https://www.satisfactorytools.com/1.0/production?share=ypeO0xj28PxZJARBnVtK
 https://www.satisfactorytools.com/1.0/production?share=oHaKKa7DpHmRSa3AxJlN
 ![alt text](assets/motors_v3.png)
 
-!!! todo    
-    - Connect imports
-
 ## Computing
 
 https://www.satisfactorytools.com/1.0/production?share=857oi1w6o4dITqI64nUW
 ![alt text](assets/computing_v5.png)
 
 !!! todo
-    - Export Computers
-    - Produce and export Radio Control Units
     - Produce and export Super Computers
 
 ## Cooling
@@ -165,13 +160,8 @@ https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 
 
 ## Project Assembly Parts #8
-https://www.satisfactorytools.com/1.0/production?share=nF5JCIgupxZYNNW6kHps
-![alt text](assets/pap8_v6.png)
-!!! todo
-    - Build train stations (done for Frames)
-    - Produce or import Reinforced Plates
-    - Produce or import Steam Beams
-    - Produce more cable?
+https://www.satisfactorytools.com/1.0/production?share=e7GlNJll7kKWx93MNoKA
+![alt text](assets/pap8_v7.png)
 
 
 ## Nitric Acid
