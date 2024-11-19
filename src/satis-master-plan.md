@@ -145,7 +145,7 @@ https://www.satisfactorytools.com/1.0/production?share=857oi1w6o4dITqI64nUW
 ![alt text](assets/computing_v5.png)
 
 !!! todo
-    - Produce and export Super Computers
+    - Export Super Computers
 
 ## Cooling
 
