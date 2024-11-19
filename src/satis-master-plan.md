@@ -114,10 +114,10 @@ Train network = factory bus
 
 ## Oil Based Products
 
-https://www.satisfactorytools.com/1.0/production?share=7sP8RrBNWKGdEzP1m0eN
+https://www.satisfactorytools.com/1.0/production?share=2nOD5zH4jJhEn4Qtv4Yn
 
-![alt text](assets/oil_v2.png)
 
+![alt text](assets/oil_v3.png)
 !!! todo
     Upgrade factory to alt recipes (recycled plastic/rubber) for more throughput
 
