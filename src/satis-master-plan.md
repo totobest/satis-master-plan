@@ -95,17 +95,7 @@ Train network = factory bus
 
 
 !!! note
-    Numbers between edges indicate the production rate in units per minute (X/min).
-
-    ~~Initially, there appeared to be a cyclic dependency between **Computing**, **Motors**, and **Cooling**:
-        - **Computing** required **Cooling** for Super Computers.
-        - **Cooling** required **Motors**.
-        - **Motors** required **Radios** from **Computing** for Turbo Motors.  
-    However, these dependencies are not fully cyclic when examined in detail:
-        - **Motors** rely on **Computing** only for Radios needed to build Turbo Motors.
-        - **Computing** relies on **Cooling** solely to produce Super Computers.~~
-    The cyclic dependencies between sub-factories have now been removed, simplifying the production flow.
-    
+    Numbers between edges indicate the production rate in units per minute (X/min).    
 
 
 ---
@@ -144,13 +134,13 @@ https://www.satisfactorytools.com/1.0/production?share=oHaKKa7DpHmRSa3AxJlN
 https://www.satisfactorytools.com/1.0/production?share=857oi1w6o4dITqI64nUW
 ![alt text](assets/computing_v5.png)
 
-!!! todo
-    - Export Super Computers
 
 ## Cooling
 
-https://www.satisfactorytools.com/1.0/production?share=g2GsJulQzprj8BrlGzZT
-![alt text](assets/cooling_v5.png)
+https://www.satisfactorytools.com/1.0/production?share=kBKGy6Hod3RiHngNF6Qu
+![alt text](assets/cooling_v6.png)
+!!!warning
+    Nitrogen is imported
 
 
 ## Electronics
@@ -160,6 +150,9 @@ https://www.satisfactorytools.com/1.0/production?share=0pPzjhkT1ahyfaIOTfhz
 ## Frames
 https://www.satisfactorytools.com/1.0/production?share=hkATsgLm04axIrTAkyyC
 ![alt text](assets/frames2.png)
+
+!!!warning
+    Nitrogen is imported
 
 
 ## Project Assembly Parts #8
