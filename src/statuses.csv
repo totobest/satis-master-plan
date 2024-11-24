@@ -1,13 +1,16 @@
 "Sub factory         ";Owner;"Built?                         ";Connected to the bus?
 "Oil Based Products";Alyosha;":fa-thumbs-up:                 ";:fa-thumbs-up:
-"Alumium Products    ";paquerette;":fa-thumbs-up:                 ";:fa-thumbs-up:
-Nitrogen;GG;:fa-thumbs-up:                 ;:fa-thumbs-up:                 
-"Oscillators         ";paquerette;":fa-thumbs-up:                 ";:fa-thumbs-up:
 "*tors              ";Alyosha;":fa-thumbs-up:                      ";:fa-thumbs-up:                 
-"Frames              ";Alyosha;":fa-thumbs-up:                 ";:fa-thumbs-up:                 
-"Project Assembly Parts #8 + Space Elevator";Alyosha;":fa-thumbs-up:                 ";:fa-thumbs-up:                 
-"Computing           ";Alyosha/paquerette;":fa-thumbs-up:                      ";Partially
-"Electronics         ";paquerette/Cédric;":fa-thumbs-up:                 ";:fa-thumbs-up:                 
-"Cooling";GG;"Partially                      ";":fa-times:                     "
+"Cooling";GG;":fa-thumbs-up:                      ";":fa-thumbs-up:                     "
 "Nitric Acid";Alyosha;:fa-thumbs-up:                 ;optional
+"Aluminum Products    ";paquerette;"Scale out                 ";:fa-thumbs-up:
+Nitrogen;GG;Scale out?                 ;:fa-thumbs-up:                 
+"Electronics         ";paquerette/Cédric;"Scale out                 ";:fa-thumbs-up:                 
+"Computing           ";Alyosha/paquerette;"Scale out                      ";:fa-thumbs-up:
+"Oscillators         ";paquerette;"Scale out                 ";:fa-thumbs-up:
+"Frames              ";Alyosha;"Scale out                 ";:fa-thumbs-up:                 
+"Project Assembly Parts #4";Alyosha;"Scale out                 ";:fa-thumbs-up:                 
+"Time Crystal";?;":fa-times:                 ";optional
+"Ficsite Trigon";?;":fa-times:                  ";optional
+"Project Assembly Parts #5 + Space Elevator";?;":fa-times:                 ";n/a             
 

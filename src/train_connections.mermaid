@@ -11,9 +11,9 @@ flowchart TD
 
     Nitrogen
 
-    AluminumProducts -- 300xAlu. Casing --> Frames
-    Computing -- 2xRCU --> Frames
-    Nitrogen -- 100xNitrogen --> Frames
+    AluminumProducts -- 350xAlu. Casing --> Frames
+    Computing -- 8xRCU --> Frames
+    Nitrogen -- 175xNitrogen --> Frames
     Frames
 
     OilBasedProducts -- 250xPlastic --> Electronics
@@ -25,21 +25,27 @@ flowchart TD
     Computing -- 6xRCU --> Motors
     Motors["*tors"]
 
-    AluminumProducts -- 315xAlu. Sheet --> Cooling
-    OilBasedProducts -- 62xRubber --> Cooling
-    Nitrogen -- 775xNitrogen --> Cooling
+    AluminumProducts -- 305xAlu. Sheet --> Cooling
+    OilBasedProducts -- 60xRubber --> Cooling
+    Nitrogen -- 750xNitrogen --> Cooling
     Cooling
 
-    OilBasedProducts -- 150xPlastic --> Computing
-    Oscillators -- 28xOscillator --> Computing
-    AluminumProducts -- 192xAlu. Casing --> Computing
+    OilBasedProducts -- 95xPlastic --> Computing
+    Oscillators -- 34xOscillator --> Computing
+    AluminumProducts -- 384xAlu. Casing --> Computing
     Cooling -- 10xCooling--> Computing
     Computing
 
-    OilBasedProducts -- 185xRubber --> ProjectAssembly
-    Motors -- 50xStator / 15xRotor/ 15xMotor/ 3xTurbo --> ProjectAssembly
-    Frames -- 7xModular / 10xHeavy / 3xFused / 1xPressure --> ProjectAssembly
-    Electronics -- 50xCircuit / 13xHSC / 5xRod --> ProjectAssembly
-    Cooling -- 9xCooling--> ProjectAssembly
-    Computing -- 20xComputer / 5xSuper --> ProjectAssembly
-    ProjectAssembly["Project Assembly Parts"]
+    OilBasedProducts -- 185xRubber --> ProjectAssembly4
+    Motors -- 50xStator / 15xRotor/ 15xMotor/ 3xTurbo --> ProjectAssembly4
+    Frames -- 7xModular / 10xHeavy / 3xFused / 1xPressure --> ProjectAssembly4
+    Electronics -- 50xCircuit / 13xHSC / 5xRod --> ProjectAssembly4
+    Cooling -- 9xCooling--> ProjectAssembly4
+    Computing -- 20xComputer / 5xSuper --> ProjectAssembly4
+    ProjectAssembly4["Project Assembly Parts #4"]
+
+    AluminumProducts -- 27xAlu. Sheet --> ProjectAssembly5
+    Oscillators -- 3xOscillator --> ProjectAssembly5
+    Computing -- 2xSuper --> ProjectAssembly5
+    ProjectAssembly4 o-. 4xPasta / 2xMagnetic / 1xThermal / 1xADS .-o ProjectAssembly5
+    ProjectAssembly5["Project Assembly Parts #5"]
