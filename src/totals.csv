@@ -1,10 +1,10 @@
 ,Alu. Sheets,Alu. Casing,Oscillator,Plastic,Rubber,Cooling System,Modular Frame,Heavy Frame,Fused Frame,Pressure Frame,Stator,Rotor,Motor,Turbo Motor,Circuit,HSC,Rod,RCU,Computer,Super Computer,Nitrogen
-Total,27,1049,37,345,228,30,7,10,3,4,33,13,13,3,50,13,5,14,20,7,925
+Total,332,734,37,345,226,30,7,10,3,4,33,13,13,3,50,13,5,14,20,7,925
 ,,,,,,,,,,,,,,,,,,,,,
 Frame,,350,,,,,,,,,,,,,,,,8,,,175
 Electronics,,,,250,,,,,,,7.5,,,,,,,,,,
 Computer,,384,34,95,,10,,,,,,,,,,,,,,,
 *tors,,,,,72,12,,,,,,,,,,,,6,,,
-Cooling,,315,,,62,,,,,,,,,,,,,,,,750
+Cooling,305,,,,60,,,,,,,,,,,,,,,,750
 PAP4,,,,,94,7.5,6.5,10,2.5,4,25,12.5,12.5,2.5,50,12.5,5,,20,5,
 PAP5,27,,3,,,,,,,,,,,,,,,,,1.5,
